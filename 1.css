@@ -1,0 +1,24 @@
+.container {
+  background-color: cornsilk;
+  border: 10px solid;
+  min-height: 600px;
+  margin: auto;
+  width: 1200px;
+}
+
+.box {
+  height: 300px;
+  width: 300px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
