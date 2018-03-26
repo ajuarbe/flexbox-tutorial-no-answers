@@ -31,7 +31,10 @@ container.
 
 Hints:
 - Use the `display` and `flex` CSS properties.
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/display
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 - `flex-direction` defaults to `row`
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction
 
 ## 3.css
 
@@ -42,7 +45,8 @@ and green boxes to each take up a quarter of the container's width.
 
 Hints:
 - Use the `flex` or `flex-grow` property to make the red box grow twice as much
-  as the other boxes
+  as the other boxes:
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow
 
 ## 4.css
 
@@ -53,3 +57,4 @@ Now we want to vertically center all of the boxes within the container.
 Hints:
 - Use `align-items` to center the boxes vertically (the opposite axis of the flex
   direction)
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/align-items
